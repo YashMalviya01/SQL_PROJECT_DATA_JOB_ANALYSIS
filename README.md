@@ -159,11 +159,7 @@ SELECT
 FROM job_postings_fact
 GROUP BY job_type;
 
-📊 Visualization:
-👉 Pie chart (Remote vs Onsite)
-💡 Insights:
-Remote jobs form a significant portion
-Remote roles often offer competitive salaries
+
 
 🧠 Key Takeaways
 ✅ SQL is the most critical skill for Data Analysts
