@@ -53,6 +53,9 @@ Salaries exceed $100K+ in top roles
 Remote roles dominate high-paying segment
 Senior-level roles drive salary spikes
 
+<img width="1606" height="894" alt="q1_top_paying_jobs" src="https://github.com/user-attachments/assets/196f0d24-7f03-413a-a4ea-368e8dd80353" />
+
+
 2️⃣ Skills Required for Top Paying Jobs
 🔍 SQL Logic:
 Join job postings with skills
