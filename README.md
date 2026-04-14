@@ -76,6 +76,8 @@ ORDER BY skill_count DESC;
 SQL is the core skill across all high-paying jobs
 Python is frequently required alongside SQL
 Excel remains a baseline requirement
+<img width="1445" height="819" alt="image" src="https://github.com/user-attachments/assets/7d03d7b4-6788-4864-b3a8-75be432085e1" />
+
 
 3️⃣ Most In-Demand Skills
 🔍 SQL Logic:
@@ -93,6 +95,9 @@ ORDER BY demand_count DESC;
 SQL dominates demand
 Python and visualization tools follow
 Demand is concentrated in core analytics stack
+
+<img width="1514" height="894" alt="q3_most_in_demand" src="https://github.com/user-attachments/assets/3a280150-3d81-4510-892e-f7464541cb20" />
+
 
 4️⃣ Highest Paying Skills
 🔍 SQL Logic:
@@ -112,6 +117,9 @@ ORDER BY avg_salary DESC;
 Cloud technologies → highest salaries
 Specialized tools → high value but niche
 SQL offers strong balance
+
+<img width="1410" height="855" alt="q4_salary_by_skill" src="https://github.com/user-attachments/assets/7281564a-d8b6-4366-8b3c-13c37f6bde72" />
+
 
 5️⃣ Optimal Skills (High Demand + High Salary)
 🔍 SQL Logic:
@@ -136,6 +144,9 @@ Y-axis → Salary
 SQL → best balance of demand + salary
 Python → high demand, scalable skill
 Cloud → high salary but lower demand
+
+<img width="1451" height="1883" alt="q5_optimal_skills" src="https://github.com/user-attachments/assets/df5f6cc8-b6e4-4582-9281-87680d5994dd" />
+
 
 🌍 Remote vs Onsite Jobs
 🔍 SQL Logic:
